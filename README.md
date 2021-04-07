@@ -1,6 +1,5 @@
 # TFG
-[Duda con la generación del vidrio solar]
-(https://colab.research.google.com/github/VictorMartinezLopez/TFG/blob/main/Duda%20generaci%C3%B3n.ipynb)
+[Duda con la generación del vidrio solar](https://colab.research.google.com/github/VictorMartinezLopez/TFG/blob/main/Duda%20generaci%C3%B3n.ipynb)
 
 
 
