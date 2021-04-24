@@ -1,5 +1,7 @@
 # TFG
 
+[Comparación de curvas](https://colab.research.google.com/github/VictorMartinezLopez/TFG/blob/main/Comparaci%C3%B3n%20Curvas.ipynb)
+
 [Análisis de variables por separado](https://colab.research.google.com/github/VictorMartinezLopez/TFG/blob/main/An%C3%A1lisis%20de%20variables%20por%20separado.ipynb)
 
 [Análisis geográfico](https://colab.research.google.com/github/VictorMartinezLopez/TFG/blob/main/An%C3%A1lisis%20geogr%C3%A1fico.ipynb)
